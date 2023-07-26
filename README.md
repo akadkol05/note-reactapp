@@ -4,7 +4,6 @@
 
 https://github.com/akadkol05/note-reactapp/assets/81400895/c40ece92-d81f-47cb-87ab-6e45b6fa54f1
 
-thub.com/akadkol05/note-reactapp/assets/81400895/0b61dd5e-3fd9-44b9-bb9e-1cba0d9991a8
 
 
 
